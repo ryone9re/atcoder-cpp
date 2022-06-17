@@ -1,6 +1,6 @@
 # My atcoder temlate
 
-## Instlation
+## Installation
 
 This template depend on atcoder-cli and online-judge-tools.
 
