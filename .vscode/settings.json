@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "python": "oj t -d $dir/tests -c \"python3 $fullFileName\""
+    }
+}
