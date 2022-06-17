@@ -35,6 +35,6 @@ acc new <contestname>
 
 ## Dangerous
 
-NEXTABC file is written in next contest number.
+The last contest number is written in the NEXTABC file.
 
 So, you should not touch enymore.
