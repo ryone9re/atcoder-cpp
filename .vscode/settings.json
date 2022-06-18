@@ -1,5 +1,6 @@
 {
     "code-runner.executorMap": {
-        "python": "oj t -d $dir/tests -c \"python3 $fullFileName\""
+        "python": "oj t -d $dir/tests -c \"python3 $fullFileName\"",
+        "c++": "g++ $fullFileName && oj t -d $dir/tests && rm $dir/a.out"
     }
 }
