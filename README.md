@@ -24,7 +24,7 @@ acc login && oj login https://atcoder.jp
 Please run this command if you want to participate a new contest.
 
 ```bash
-./start.sh <ABC<?>
+./start.sh <ABC Contest Number>
 ```
 
 Or
