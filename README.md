@@ -10,7 +10,7 @@ Run this.
 
 ```bash
 pip3 install --user online-judge-tools
-npm install -g atcoder-cli
+npm install --location=global atcoder-cli
 ```
 
 Login to atcoder.
