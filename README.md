@@ -32,9 +32,3 @@ Or
 ```bash
 acc new <contestname>
 ```
-
-## Dangerous
-
-The last contest number is written in the NEXTABC file.
-
-So, you should not touch enymore.
