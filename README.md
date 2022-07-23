@@ -16,7 +16,7 @@ npm install --location=global atcoder-cli
 Login to atcoder.
 
 ```bash
-oj login https://atcoder.jp && acc login
+oj login https://atcoder.jp && acc login && acc config default-task-choice all
 ```
 
 ## Usage
