@@ -16,7 +16,7 @@ npm install --location=global atcoder-cli
 Login to atcoder.
 
 ```bash
-acc login && oj login https://atcoder.jp
+oj login https://atcoder.jp && acc login
 ```
 
 ## Usage
