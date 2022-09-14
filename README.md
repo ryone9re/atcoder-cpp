@@ -9,14 +9,13 @@ Therefore, need to be installed it.
 Run this.
 
 ```bash
-pip3 install --user online-judge-tools
-npm install --location=global atcoder-cli
+./install.sh
 ```
 
 Login to atcoder.
 
 ```bash
-oj login https://atcoder.jp && acc login && acc config default-task-choice all
+acc login && oj login https://atcoder.jp
 ```
 
 ## Usage
