@@ -1,2 +1,2 @@
 #!/bin/bash
-acc new ABC$1
+acc new ABC$1 --template cpp
