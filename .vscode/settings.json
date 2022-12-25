@@ -2,5 +2,8 @@
     "code-runner.executorMap": {
         "python": "oj t -d $dir/tests -c \"python3 $fullFileName\"",
         "cpp": "g++ $fullFileName && oj t -d $dir/tests && rm $workspaceRoot/a.out"
+    },
+    "files.associations": {
+        "cmath": "cpp"
     }
 }

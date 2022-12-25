@@ -1,13 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#pragma GCC target("avx")
-#pragma GCC optimize("O3")
-#pragma GCC optimize("unroll-loops")
-
+using ui = unsigned int;
 using ll = long long;
 using ull = unsigned long long;
 
+using vc = vector<char>;
 using vi = vector<int>;
 using vl = vector<long>;
 using vll = vector<long long>;
