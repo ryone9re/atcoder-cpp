@@ -17,7 +17,12 @@ using pii = pair<int, int>;
 
 #define ppc(x) __builtin_popcount(x)
 
-int main() {
-  // code
+void code()
+{
+}
+
+int main()
+{
+  code();
   return (0);
 }
